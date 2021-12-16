@@ -23,7 +23,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page1_bg-red.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page1_bg-red.jpg",
             "width": 330,
             "height": 586,
             "id": 0,
@@ -80,7 +80,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page1_logo-generic.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page1_logo-generic.jpg",
             "width": 79,
             "height": 22,
             "id": 0,
@@ -167,7 +167,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page2_figure-formatted.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page2_figure-formatted.jpg",
             "width": 220,
             "height": 350,
             "posterId": 0,
@@ -496,7 +496,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page4_bg-red.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page4_bg-red.jpg",
             "width": 330,
             "height": 308,
             "id": 0,
@@ -715,7 +715,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page5_bg-no-logo.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page5_bg-no-logo.jpg",
             "width": 330,
             "height": 295,
             "id": 0,
@@ -1000,7 +1000,7 @@
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2020-06-30T20:40:21",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page6_watch.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page6_watch.jpg",
             "width": 330,
             "height": 330,
             "posterId": 0,
@@ -1211,7 +1211,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page7_bg-red.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page7_bg-red.jpg",
             "width": 330,
             "height": 239,
             "id": 0,
@@ -1471,7 +1471,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page8_story3-formatted.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page8_story3-formatted.jpg",
             "width": 95,
             "height": 97,
             "posterId": 0,
@@ -1505,7 +1505,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page8_story1-formatted.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page8_story1-formatted.jpg",
             "width": 95,
             "height": 97,
             "posterId": 0,
@@ -1539,7 +1539,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page8_story2-formatted.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/no-days-off/page8_story2-formatted.jpg",
             "width": 188,
             "height": 97,
             "posterId": 0,

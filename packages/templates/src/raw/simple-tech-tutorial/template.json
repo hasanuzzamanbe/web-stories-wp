@@ -609,7 +609,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/simple-tech-tutorial/page3_img1.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/simple-tech-tutorial/page3_img1.jpg",
             "width": 824,
             "height": 976,
             "id": 0,
@@ -974,7 +974,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/simple-tech-tutorial/page4_img1.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/simple-tech-tutorial/page4_img1.jpg",
             "width": 824,
             "height": 976,
             "id": 0,
@@ -1400,7 +1400,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/simple-tech-tutorial/page6_img1.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/simple-tech-tutorial/page6_img1.jpg",
             "width": 824,
             "height": 1098,
             "id": 0,
@@ -1695,7 +1695,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/simple-tech-tutorial/page7_img1.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/simple-tech-tutorial/page7_img1.jpg",
             "width": 824,
             "height": 952,
             "id": 0,
